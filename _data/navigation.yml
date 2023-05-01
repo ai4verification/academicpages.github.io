@@ -1,22 +1,17 @@
 # main links links
 main:
-  - title: "Publications"
+  - title: "AI4TV"
     url: /publications/
 
-  - title: "Talks"
+  - title: "AI4LS"
     url: /talks/    
 
-  - title: "Teaching"
+  - title: "BO4EDA"
     url: /teaching/    
     
-  - title: "Portfolio"
+  - title: "AI4PR"
     url: /portfolio/
         
-  - title: "Blog Posts"
+  - title: "General"
     url: /year-archive/
     
-  - title: "CV"
-    url: /cv/
-    
-  - title: "Guide"
-    url: /markdown/
